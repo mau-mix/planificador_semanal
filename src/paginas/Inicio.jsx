@@ -9,7 +9,7 @@ const Inicio = () => {
   const Componente = styled.div`
     display:flex;
     background-color:white;
-    width: 90%;
+    width: 80%;
    
     padding:2rem;
     border-radius:1rem;
@@ -29,7 +29,7 @@ const Inicio = () => {
     padding:.6rem;
     text-transform:uppercase;
     font-family:Arial, Helvetica, sans-serif;
-    font-size:18px;
+    font-size:16px;
     border-radius:5px;
 `;
   const Parrafo = styled.p`
