@@ -76,7 +76,7 @@ const Dia2 = () => {
                         <TD>8</TD>
                      </tr>
                      <tr>
-                        <TD>remo/inclinado/manc</TD>
+                        <TD>remo/incl/manc</TD>
                         <TD>4</TD>
                         <TD>10</TD>
                      </tr>

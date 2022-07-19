@@ -53,12 +53,12 @@ const Dia3 = () => {
                         <TD>8</TD>
                      </tr>
                      <tr>
-                        <TD>desplantes/alternados</TD>
+                        <TD>desplantes/alter</TD>
                         <TD>3</TD>
                         <TD>10</TD>
                      </tr>
                      <tr>
-                        <TD>costurera/pantorrillas</TD>
+                        <TD>costurera/pant</TD>
                         <TD>4</TD>
                         <TD>fallo</TD>
                      </tr>
@@ -111,7 +111,7 @@ const Dia3 = () => {
                         <TD>10</TD>
                      </tr>
                      <tr>
-                        <TD>crunch/hombro/mancuernas</TD>
+                        <TD>crunch/hombro/manc</TD>
                         <TD>4</TD>
                         <TD>fallo</TD>
                      </tr>
