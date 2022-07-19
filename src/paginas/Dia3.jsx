@@ -65,7 +65,7 @@ const Dia3 = () => {
 
                </TablaTriserie>
                <TablaTriserie>
-                <SubTitulo><Musculo>pecho/ </Musculo> triserie 2</SubTitulo>
+                <SubTitulo><Musculo>pierna/ </Musculo> triserie 2</SubTitulo>
                      <tr>
                          <TH>ejercicio</TH>
                          <TH>series</TH>
@@ -106,12 +106,12 @@ const Dia3 = () => {
                         <TD>10</TD>
                      </tr>
                      <tr>
-                        <TD>lateral/mancuernas</TD>
+                        <TD>lateral/manc</TD>
                         <TD>4</TD>
                         <TD>10</TD>
                      </tr>
                      <tr>
-                        <TD>crunch/hombro/manc</TD>
+                        <TD>crunch/hom/manc</TD>
                         <TD>4</TD>
                         <TD>fallo</TD>
                      </tr>
