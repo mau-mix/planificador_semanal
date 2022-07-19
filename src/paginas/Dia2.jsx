@@ -76,7 +76,7 @@ const Dia2 = () => {
                         <TD>8</TD>
                      </tr>
                      <tr>
-                        <TD>remo/inclinado/mancuernas</TD>
+                        <TD>remo/inclinado/manc</TD>
                         <TD>4</TD>
                         <TD>10</TD>
                      </tr>
@@ -100,7 +100,7 @@ const Dia2 = () => {
                         <TD>8</TD>
                      </tr>
                      <tr>
-                        <TD>curl/mancuernas/alternados</TD>
+                        <TD>curl/manc/alt</TD>
                         <TD>4</TD>
                         <TD>10</TD>
                      </tr>
